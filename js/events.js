@@ -1,7 +1,10 @@
-//define functions here
+function getIT (){
+  return $("p").on("click")
+}
+
 
 $(document).ready(function(){
+getIT ()
 
-// call functions here
 
 });
